@@ -1,0 +1,31 @@
+h1{
+    color:#8000FF 
+}
+.header{
+    background-color:purple;
+    display:flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    background-color: oldlace;
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: orchid;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
